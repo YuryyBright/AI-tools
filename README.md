@@ -1,79 +1,59 @@
 
-# AI Tools Directory 🚀  
+# ☄️ AI Tools Directory for Every Occasion  
 
-A curated collection of AI tools and platforms for various use cases. Explore open-source and proprietary solutions, test models directly online, and find tools tailored to your needs.  
-
----
-
-## Contents  
-- [Hugging Face Spaces](#hugging-face-spaces)  
-- [Awesome AI Web Search](#awesome-ai-web-search)  
-- [Best of AI Websites](#best-of-ai-websites)  
-- [Toolfinder & Best Of AI](#toolfinder--best-of-ai)  
-- [Privacy-Focused Collections](#privacy-focused-collections)  
+A curated list of platforms and tools powered by artificial intelligence for various tasks.  
 
 ---
 
-### Hugging Face Spaces 🧠  
-
-- **Overview**: Access over **400,000 AI models** categorized for various use cases.  
-- **Features**:  
-  - Run models directly on the platform.  
-  - Free to test with **daily generation limits**.  
-  - No redirections required.  
-- **Use Case**: Perfect for prototyping and exploring AI solutions quickly.  
-
-[Visit Hugging Face Spaces](https://huggingface.co/spaces)  
+## Hugging Face Spaces 🧠  
+- **Link**: [Hugging Face Spaces](https://huggingface.co/spaces)  
+- **Description**:  
+  - Access over 400,000 AI models for every possible use case.  
+  - Structured into categories.  
+  - Models run directly on the site without redirects.  
+  - Free to test (daily account limits apply).  
 
 ---
 
-### Awesome AI Web Search 🔍  
-
-- **Overview**: A directory of AI-powered web search tools, classified into:  
-  - **Open Source**: Perplexica, Morphic, STORM, and more.  
-  - **Proprietary**: Gemini, Copilot, Hika, and others.  
-- **Features**:  
-  - Tools sorted by **release timeline**.  
+## Awesome AI Web Search 🔍  
+- **Link**: [Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search)  
+- **Description**:  
+  - A directory of AI-powered web search tools.  
+  - Two categories:  
+    - Open-source tools (e.g., Perplexica, Morphic, STORM).  
+    - Proprietary tools (e.g., Gemini, Copilot, Hika).  
+  - Sorted by timeline.  
   - Regularly updated list.  
-- **Use Case**: Ideal for improving search capabilities with AI.  
 
 ---
 
-### Best of AI Websites 🌐  
-
-- **Overview**: A **massive library** of AI tools organized by specific tasks.  
-- **Features**:  
-  - Broad range of categories.  
-  - High-quality resources for diverse applications.  
-- **Use Case**: Comprehensive directory for discovering AI solutions.  
-
-[Explore Best of AI Websites](https://bestofaiwebsites.com)  
+## Best of AI Websites 🌐  
+- **Link**: [Best of AI Websites](https://bestfreeaiwebsites.com/all-tools/)  
+- **Description**:  
+  - A massive library of AI tools for various tasks.  
+  - Organized into categories based on specific use cases.  
 
 ---
 
-### Toolfinder & Best Of AI 🔧  
-
-- **Overview**: Extensive collections of AI tools with over **10,000+ resources**.  
-- **Features**:  
-  - Organized by **categories**.  
-  - Covers a wide spectrum of industries and use cases.  
-- **Use Case**: Great for exploring a broad range of tools for any domain.  
+## Toolfinder & Best Of AI 🔧  
+- **Links**:  
+  - [Toolfinder](https://toolfinder.co/)  
+  - [Best Of AI](https://bestofai.com/)  
+- **Description**:  
+  - Two extensive collections of AI tools.  
+  - Organized by categories with over 10,000+ tools.  
+  - A wide selection of tools for different industries.  
 
 ---
 
-### Privacy-Focused Collections 🔐  
-
-- **Overview**: Directories with a focus on **privacy**, **confidentiality**, and **open-source tools**.  
-- **Additional Resources**:  
+## Privacy-Focused and Open-Source Collections 🔐  
+- **Links**:  
   - [Collection 1](https://t.me/cybersecurity_ua/838)  
   - [Collection 2](https://t.me/cybersecurity_ua/1016)  
+- **Description**:  
+  - Tools with a focus on privacy, confidentiality, and open-source alternatives.  
 
----  
-
-## Contribute  
-If you have suggestions or new tools to add, feel free to submit a pull request or open an issue!  
-
----  
+---
 
 ## License  
-This repository is open for educational and personal use. Always check individual tool licenses for usage restrictions.
+Use for educational and personal purposes. Always check individual tool licenses for usage restrictions.  
